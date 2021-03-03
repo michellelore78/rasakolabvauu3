@@ -1,0 +1,4 @@
+baseURL = "https://usahome-wataru88.vercel.app"
+languageCode = "en-us"
+title = "Home Design Modern"
+theme = "hugo-theme-minos"
